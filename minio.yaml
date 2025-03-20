@@ -80,4 +80,4 @@ spec:
       name: console
     - port: 9000
       name: s3
-  type: ClusterIP
+  type: NodePort
